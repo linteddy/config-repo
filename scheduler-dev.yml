@@ -1,2 +1,2 @@
-enabled: false
+enabled: true
 cron: "0/10 * * * * *"
